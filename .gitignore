@@ -1,0 +1,7 @@
+local/
+library/
+build/
+temp/
+.vscode/
+nativecode/proj.ios_mac/mahjong_client_test.xcodeproj/xcuserdata
+nativecode/proj.ios_mac/mahjong_client_test.xcodeproj/project.xcworkspace/xcuserdata

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "91fb192d-1d79-4e8c-8f79-fde09fb55bc4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "icon_applepay": {
+      "ver": "1.0.3",
+      "uuid": "89a5f0b2-51ac-4dce-ace4-4ef11b6042a4",
+      "rawTextureUuid": "91fb192d-1d79-4e8c-8f79-fde09fb55bc4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 56,
+      "height": 26,
+      "rawWidth": 56,
+      "rawHeight": 26,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

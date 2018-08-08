@@ -1,0 +1,4 @@
+#!/bin/sh
+
+
+curl http://mjgatedev.ddpkcc.com:8201/exit

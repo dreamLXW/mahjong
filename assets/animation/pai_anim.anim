@@ -1,0 +1,85 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "pai_anim",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 15.02,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "7_2x": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 5,
+              "value": 255
+            },
+            {
+              "frame": 5.016666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "18_2x": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 5,
+              "value": 0
+            },
+            {
+              "frame": 5.016666666666667,
+              "value": 255
+            },
+            {
+              "frame": 10,
+              "value": 255
+            },
+            {
+              "frame": 10.016666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "13_2x": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 10,
+              "value": 0
+            },
+            {
+              "frame": 10.016666666666667,
+              "value": 255
+            },
+            {
+              "frame": 15,
+              "value": 255
+            },
+            {
+              "frame": 15.016666666666667,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

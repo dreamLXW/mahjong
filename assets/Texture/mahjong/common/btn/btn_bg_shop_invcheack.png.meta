@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "263eef8f-d6c0-4f1b-94c0-d94afb351ee7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "btn_bg_shop_invcheack": {
+      "ver": "1.0.3",
+      "uuid": "f432ed9f-dd5d-4563-91e9-e64ed5bf2648",
+      "rawTextureUuid": "263eef8f-d6c0-4f1b-94c0-d94afb351ee7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 72,
+      "height": 154,
+      "rawWidth": 72,
+      "rawHeight": 154,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

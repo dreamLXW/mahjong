@@ -1,0 +1,226 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "gangbao",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.4,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "tx_24": {
+        "props": {
+          "scaleY": [
+            {
+              "frame": 0.06666666666666667,
+              "value": 2
+            },
+            {
+              "frame": 0.18333333333333332,
+              "value": 5
+            },
+            {
+              "frame": 0.23333333333333334,
+              "value": 5
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.06666666666666667,
+              "value": 2
+            },
+            {
+              "frame": 0.18333333333333332,
+              "value": 5
+            },
+            {
+              "frame": 0.23333333333333334,
+              "value": 5
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.06666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.1,
+              "value": 255
+            },
+            {
+              "frame": 0.18333333333333332,
+              "value": 255
+            },
+            {
+              "frame": 0.23333333333333334,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "tx_gang": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0.25,
+              "value": 2
+            },
+            {
+              "frame": 0.35,
+              "value": 0.8
+            },
+            {
+              "frame": 0.4,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.25,
+              "value": 2
+            },
+            {
+              "frame": 0.35,
+              "value": 0.8
+            },
+            {
+              "frame": 0.4,
+              "value": 1
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.23333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 0.25,
+              "value": 150
+            },
+            {
+              "frame": 0.35,
+              "value": 220
+            },
+            {
+              "frame": 0.4,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "tx_2": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0.25,
+              "value": 0
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 1.2
+            },
+            {
+              "frame": 0.35,
+              "value": 1
+            }
+          ],
+          "scaleY": [],
+          "opacity": [
+            {
+              "frame": 0.25,
+              "value": 0
+            },
+            {
+              "frame": 0.2833333333333333,
+              "value": 255
+            }
+          ],
+          "x": [
+            {
+              "frame": 0.25,
+              "value": -88
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 6
+            },
+            {
+              "frame": 0.35,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "tx_bao": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0.35,
+              "value": 0.3
+            },
+            {
+              "frame": 0.4,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.35,
+              "value": 0.3
+            },
+            {
+              "frame": 0.4,
+              "value": 1
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.35,
+              "value": 0
+            },
+            {
+              "frame": 0.4,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "tx_yz": {
+        "props": {
+          "scaleY": [
+            {
+              "frame": 0.35,
+              "value": 0.3
+            },
+            {
+              "frame": 0.4,
+              "value": 1
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.35,
+              "value": 0.3
+            },
+            {
+              "frame": 0.4,
+              "value": 1
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.35,
+              "value": 0
+            },
+            {
+              "frame": 0.4,
+              "value": 255
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,33 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": false,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "com.ddpkcc.game.mahjong",
+  "privateKey": "",
+  "renderMode": "0",
+  "startScene": "6ea099ca-c8bc-43c8-b918-6ca03d5529b5",
+  "title": "mahjong_client_test",
+  "webOrientation": "landscape",
+  "wechatgame": {
+    "appid": "wx42cfab8d86540262",
+    "orientation": "landscape"
+  },
+  "xxteaKey": "e9d6ef8f-dff4-4a",
+  "zipCompressJs": false
+}
